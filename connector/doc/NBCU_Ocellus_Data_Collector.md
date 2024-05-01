@@ -49,3 +49,4 @@ Once you have logged in, you will also need to specify the **App Name** on the *
 ## How to use
 
 After the initialization process is completed, to set the data to be retrieved, you will need to add rows in both the **Top Level Metric Polling** and **Individual Metric Polling** tables, specifying the values to be retrieved. The connector will retrieve the requested data from the tables every minute, and this data will be available on the **Top Level Metric** and **Individual Metric** pages.
+For **Top Level Metric Polling** table, the user could use Grouping column to retrieve more precise data. To do so, the user must add the groups separated by comma (,) in the row they want to retrieve that precise data.
