@@ -45,11 +45,6 @@ SNMP Settings:
 
 ### Initialization
 
-To start retrieving data with the Raisecom SNMP Connector, a few simple steps are required:
-
-1. **Configure Connections**: Define the device’s IP Address for both SNMP and Trap communication.
-2. **Define Communities**: Enter the appropriate get and set community strings for the SNMP connections.
-3. **Select Device Type**: Choose the correct option in the Device Type parameter — either ISCOM 29XX or RAX 27XX — to automatically display the corresponding data.
-
+To start retrieving data with the Raisecom SNMP Connector, the user must first validate the Device Type parameter. By default, the connector is configured for the ISCOM 29XX series; however, this setting can be modified to support devices from the RAX 27XX series when required.
 
 Once configured, the connector automatically populates the relevant parameters and tables, providing a consolidated view of device performance and health metrics.
