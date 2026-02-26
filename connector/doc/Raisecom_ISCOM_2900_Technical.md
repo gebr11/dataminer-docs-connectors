@@ -10,11 +10,12 @@ The **Raisecom ISCOM 2900** connector integrates Raisecom devices into monitorin
 
 Additionally, the connector supports SNMP trap communication, delivering real‑time event notifications, primarily related to device shutdowns and other critical events.
 
+
 ## Configuration
 
 ### Connections
 
-#### SNMP Connection
+#### SNMP Connection - Main
 
 This connector uses a Simple Network Management Protocol (SNMP) connection and requires the following input during element creation:
 
@@ -49,5 +50,6 @@ To start retrieving data with the Raisecom SNMP Connector, a few simple steps ar
 1. **Configure Connections**: Define the device’s IP Address for both SNMP and Trap communication.
 2. **Define Communities**: Enter the appropriate get and set community strings for the SNMP connections.
 3. **Select Device Type**: Choose the correct option in the Device Type parameter — either ISCOM 29XX or RAX 27XX — to automatically display the corresponding data.
+
 
 Once configured, the connector automatically populates the relevant parameters and tables, providing a consolidated view of device performance and health metrics.
