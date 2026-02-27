@@ -6,7 +6,7 @@ uid: Connector_help_Raisecom_ISCOM_2900
 
 ## About
 
-The **Raisecom ISCOM 2900** series is designed to deliver powerful aggregation and switching capabilities for any network. With CE 2.0 certification and advanced Layer 2 architecture, the ISCOM 2900 ensures seamless connectivity, scalability, and reliability across diverse deployment scenarios. With built‑in SNMP trap handling, it ensures that you are always aware of critical events as they happen.
+The **Raisecom ISCOM 2900** is an Ethernet switch designed for Carrier Ethernet 2.0 (CE2.0) networks. It serves as a central point for aggregating Ethernet Demarcation Devices (EDDs) and access equipment, ensuring full compatibility in CE2.0 deployments. Built on an advanced Layer 2 switching architecture, the series delivers line‑rate performance and supports uplinks up to 10G, making it suitable for scalable expansion. With static route support, it integrates smoothly with Layer 3 routing devices, enabling flexible service delivery across carrier, enterprise, education, and residential networks.
 
 ## Key Features
 
