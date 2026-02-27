@@ -8,7 +8,7 @@ uid: Connector_help_Raisecom_ISCOM_2900
 
 The **Raisecom ISCOM 2900** connector brings powerful monitoring capabilities to your network by supporting both ISCOM 29XX and RAX 27XX device families. With built‑in SNMP trap handling, it ensures that you are always aware of critical events as they happen.
 
-This connector organizes monitoring data into clear, distributed pages, making it easy to navigate and understand. From system health to optical performance, you will have a complete view of your devices.
+This connector aggregates interface data into a unified table, encompassing metrics such as rates, speed, MTU, and optical transceiver parameters, including Tx/Rx power and Temperature levels. By consolidating this information, it provides a comprehensive perspective on device performance, spanning from overall system health to detailed optical monitoring.
 
 ## Key Features
 
@@ -20,4 +20,4 @@ This connector organizes monitoring data into clear, distributed pages, making i
 ## Technical Reference
 
 > [!NOTE]
-> For detailed technical information, refer to our [technical documentation page](xref:Connector_help_Nokia_Altiplano_Manager_Technical).
+> For detailed technical information, refer to our [technical documentation page](xref:Connector_help_Raisecom_ISCOM_2900).
