@@ -6,10 +6,9 @@ uid: Connector_help_Raisecom_ISCOM_2900_Technical
 
 ## About
 
-The **Raisecom ISCOM 2900** connector integrates Raisecom devices into monitoring platforms via the SNMP protocol. It supports both *ISCOM 29XX* and *RAX 7XX* series, providing visibility into system metrics, hardware health, and optical transceiver data. This information is available through the internal pages, where it is organized into corresponding tables and parameters for structured access and analysis.
+The **Raisecom ISCOM 2900** connector integrates Raisecom devices into monitoring platforms via the SNMP protocol. It supports both **ISCOM 29XX** and **RAX 7XX** series, providing visibility into system metrics, hardware health, and optical transceiver data.
 
-Additionally, the connector supports SNMP trap communication, delivering real‑time event notifications, primarily related to device shutdowns and other critical events.
-
+The connector supports SNMP trap communication, delivering real‑time event notifications, primarily related to device shutdowns and other critical events.
 
 ## Configuration
 
@@ -45,6 +44,6 @@ SNMP Settings:
 
 ### Initialization
 
-To start retrieving data with the Raisecom SNMP Connector, the user must first validate the Device Type parameter. By default, the connector is configured for the ISCOM 29XX series; however, this setting can be modified to support devices from the RAX 27XX series when required.
+To start retrieving data with the Raisecom SNMP Connector, you will first need to validate the Device Type parameter. By default, the connector is configured for the ISCOM 29XX series; however, this setting can be modified to support devices from the RAX 27XX series when required.
 
 Once configured, the connector automatically populates the relevant parameters and tables, providing a consolidated view of device performance and health metrics.
