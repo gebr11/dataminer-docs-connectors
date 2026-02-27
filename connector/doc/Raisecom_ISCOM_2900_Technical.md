@@ -10,6 +10,7 @@ The **Raisecom ISCOM 2900** connector integrates Raisecom devices into monitorin
 
 Additionally, the connector supports SNMP trap communication, delivering real‑time event notifications, primarily related to device shutdowns and other critical events.
 
+The connector supports SNMP trap communication, delivering real‑time event notifications, primarily related to device shutdowns and other critical events.
 
 ## Configuration
 
