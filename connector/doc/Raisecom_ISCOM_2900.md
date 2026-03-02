@@ -10,12 +10,12 @@ The **Raisecom ISCOM 2900** is an Ethernet switch designed for Carrier Ethernet 
 
 ## Key Features
 
-- **Smart Connectivity**: With support for advanced Ethernet standards, the series ensures smooth integration across diverse environments. 
-- **Reliable Uptime**: High‑availability features minimize downtime, ensuring your services remain consistent and dependable.
-- **Enhanced Visibility & Control**: Built‑in monitoring and management tools give you a clear, real‑time view of your network’s health, helping you stay ahead of potential issues.
-- **Flexible Deployment**: Compact design and versatile port options make the ISCOM 2900 ideal for a wide range of scenarios, whether you’re expanding a backbone or consolidating access networks.
+- **Smart connectivity**: With support for advanced Ethernet standards, the series ensures smooth integration across diverse environments.
+- **Reliable uptime**: High‑availability features minimize downtime, ensuring that your services remain consistent and dependable.
+- **Enhanced visibility and control**: Built‑in monitoring and management tools give you a clear, real‑time view of your network's health, helping you stay ahead of potential issues.
+- **Flexible deployment**: Compact design and versatile port options make the ISCOM 2900 ideal for a wide range of scenarios, whether you are expanding a backbone or consolidating access networks.
 
 ## Technical Reference
 
 > [!NOTE]
-> For detailed technical information, refer to our [technical documentation page](xref:Connector_help_Raisecom_ISCOM_2900).
+> For detailed technical information, refer to our [technical documentation page](xref:Connector_help_Raisecom_ISCOM_2900_Technical).
